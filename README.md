@@ -1,14 +1,6 @@
 # Resume-Matcher-using-TF-IDF
 
 
-Sure! Here's a **detailed `README.md`** file for your **Resume Matcher with Job Description using TF-IDF** project. It's structured for clarity and professionalism, ready for GitHub or any portfolio.
-
----
-
-### 📄 `README.md` – Resume Matcher using TF-IDF & Streamlit
-
-```markdown
-# 🧠 Resume Matcher using TF-IDF
 
 This project is a smart resume scanning tool that compares multiple resumes against a job description and ranks them based on relevance using **TF-IDF** and **Cosine Similarity**. Built with **Streamlit** for an intuitive web interface, it supports `.pdf` and `.txt` resumes and provides real-time matching results.
 
