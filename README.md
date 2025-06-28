@@ -17,14 +17,14 @@ It uses:
 
 ---
 
-## 🚀 Demo
+## Demo
 
 
 ![image](https://github.com/user-attachments/assets/0a5b115e-4fff-4b3e-bd78-039e4b9cfe3f)
 
 ---
 
-## 📦 Features
+## Features
 
 ✅ Upload multiple resumes (.pdf or .txt)  
 ✅ Paste or type in a job description  
@@ -36,7 +36,7 @@ It uses:
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Tool           | Purpose                                |
 |----------------|----------------------------------------|
@@ -48,7 +48,7 @@ It uses:
 
 ---
 
-## 🖥️ How it Works
+## How it Works
 
 1. All uploaded resumes and the job description are converted to lowercase text.
 2. TF-IDF is used to encode the job description and all resumes into numerical vectors.
@@ -58,7 +58,7 @@ It uses:
 
 ---
 
-## 📂 File Structure
+## File Structure
 
 ```
 
@@ -100,9 +100,9 @@ streamlit run app.py
 
 ---
 
-## 📝 Sample Input
+## Sample Input
 
-### ✍️ Job Description
+### Job Description
 
 ```
 We are looking for a machine learning intern with knowledge of NLP, deep learning, and Python. Experience with spaCy, Transformers, or TensorFlow is a plus.
@@ -115,7 +115,7 @@ We are looking for a machine learning intern with knowledge of NLP, deep learnin
 
 ---
 
-## 🧠 Understanding Similarity Scores
+## Understanding Similarity Scores
 
 * Scores range from **0 to 1**
 * Closer to **1** = better match
@@ -131,7 +131,7 @@ We are looking for a machine learning intern with knowledge of NLP, deep learnin
 
 
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests and feedback are welcome. Please open an issue first to discuss your ideas or improvements.
 
